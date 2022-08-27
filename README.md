@@ -3,7 +3,7 @@
 ![Emukit logo](https://github.com/webmixedreality/emukit/raw/master/media/emukit-200.png "Emukit logo")
 
 Based on [libretro](https://github.com/libretro/RetroArch)'s WebAssembly build. Everything else is Javascript. Runs best in [Exokit](webmixedreality/exokit).
-
+This fork helps to make the site work again on Oculus. 
 ## Live site
 
 https://emukit.exokit.org
