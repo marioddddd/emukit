@@ -1,4 +1,4 @@
-## Emukit: Mixed Reality Emulator
+## Ocukit: Mixed Reality Emulator
 
 ![Emukit logo](https://github.com/webmixedreality/emukit/raw/master/media/emukit-200.png "Emukit logo")
 
