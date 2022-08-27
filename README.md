@@ -4,13 +4,12 @@
 
 Based on [libretro](https://github.com/libretro/RetroArch)'s WebAssembly build. Everything else is Javascript. Runs best in [Exokit](webmixedreality/exokit).
 This fork helps to make the site work again on Oculus. 
-## Live site
+## original Live site
 
 https://emukit.exokit.org
 
-## Video demo
-
-https://youtu.be/_yQCjKuRRl0
+## official site
+http://ocukit.indie.af
 
 ## Screenshots
 
